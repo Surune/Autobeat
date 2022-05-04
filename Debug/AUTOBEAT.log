@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\서진규\desktop\autobeat\autobeat\main.cpp(15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  AUTOBEAT.vcxproj -> C:\Users\서진규\Desktop\AUTOBEAT\Debug\AUTOBEAT.exe
+  AUTOBEAT.vcxproj -> C:\Users\서진규\Desktop\AUTOBEAT\Debug\AUTOBEAT.pdb (Partial PDB)
